@@ -1,0 +1,6 @@
+
+ocTip.show().fadeOut(fadeOut);
+
+七牛配置：
+	309952077@qq.com/30*
+	
